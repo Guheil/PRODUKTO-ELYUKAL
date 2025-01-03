@@ -1,5 +1,5 @@
 # Viro Starter Kit
-
+USB DEBUGGING MUST BE ON TO TEST THE APP
 This is a new [**React Native**](https://reactnative.dev) project, set up with `@reactvision/react-viro`.
 
 ## How to Install Viro in an existing project?
